@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "boti var ",
+    "username": "boti_var",
     "password": "",
     "type": "offline"
   },
@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "Slobos"
     },
     "anti-afk": {
