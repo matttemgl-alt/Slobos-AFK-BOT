@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "boti_var",
+    "username": "botivar",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "gagagiomatesaba.aternos.me",
     "port": 46345,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -77,7 +77,7 @@
     "place-night": true
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "https://discord.com/api/webhooks/1485163075303768249/Ij0iiDKIepivVmDhTRXc3HHSAQnF12YU3_Y150_2wqB0cUtZ4kjue0aeQXbQaOiAJqEU",
     "events": {
       "connect": true,
