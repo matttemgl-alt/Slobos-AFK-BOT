@@ -1,20 +1,20 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "boti var ",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "gagagiomatesaba.aternos.me",
+    "port": 46345,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 999,
+    "y": 90,
+    "z": 121
   },
   "utils": {
     "auto-auth": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "boti var ar momklat",
+        "am serverze konfliqti ar gvinda!",
+        "me ar shemimchniot"
       ]
     },
     "chat-log": true,
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1485163075303768249/Ij0iiDKIepivVmDhTRXc3HHSAQnF12YU3_Y150_2wqB0cUtZ4kjue0aeQXbQaOiAJqEU",
     "events": {
       "connect": true,
       "disconnect": true,
